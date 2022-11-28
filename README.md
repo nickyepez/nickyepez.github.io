@@ -1,0 +1,3 @@
+# Portfolio
+Description: I created my first website leveraging my basic knowledge in CSS, JavaScript and HTML.  I was able to take advantage of Bootstrap in order to properly style my website. I have included an "About Me" section as well as some of the projects that have been working on during the last couple of months.
+I am hoping I can continue to enhance my portfolio throughout the next several months since I still have to complete my learning journey within the MIT xPRO Coding program.
